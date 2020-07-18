@@ -9,3 +9,12 @@ Snake can move in a given direction and when it eats the food, the length of sna
 • When snake crosses itself, the game will over.
 
 • Food will be generated at given interval.
+
+# Working
+You have to use the keys 
+1. 'a' for changing the direction of snake to the Left.
+2. 'd' for changing the direction of snake to the Right.
+3. 'w' for changing the direction of snake to the Up.
+4. 's' for changing the direction of snake to the Down.
+
+Move the snake in the direction of fruit, when it eats the fruit its length increased by 1.
